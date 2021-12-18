@@ -1,8 +1,8 @@
 {
-  "title": "API Academy",
-  "description": "The prestigious Arcane Academy of API Arts is the premier institution of higher learning in The Cloud. Here, students learn to control the magical incantations that are APIs. Visit the school, and see if you have what it takes to join the Academy!",
-  "questTitle": "Joining the Academy",
-  "questDescription": "Make your way to the Academy and prove you have what it takes to join!",
+  "title": "L'Académie des API",
+  "description": "La prestigieuse Académie Arcane des sciences des API est le premier établissement d'enseignement supérieur du Cloud. Ici, les étudiants apprennent à contrôler les incantations magiques que sont les APIs. Visitez l'école, et voyez si vous avez ce qu'il faut pour rejoindre l'Académie !",
+  "questTitle": "Rejoindre l'Académie",
+  "questDescription": "Trouvez votre chemin vers l'Académie et ouvrez les 4 coffres de la connaissance !",
   "navMap": {
     "x": 70,
     "y": 45,

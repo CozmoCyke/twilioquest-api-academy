@@ -1,6 +1,6 @@
-# Video: Defining an Interface
+# Vidéo : Définition d'une interface
 
-Watch the embedded video below to learn more about the definition of an API. Also, feel free to [check out the whole course here](https://www.youtube.com/watch?v=GZvSYJDk-us)!
+Regardez la vidéo incluse ci-dessous pour en savoir plus sur la définition d'une API. N'hésitez pas non plus à [consulter le cours complet ici](https://www.youtube.com/watch?v=GZvSYJDk-us) !
 
 <iframe 
   width="560" height="315" 

@@ -4,27 +4,27 @@ module.exports = async (helper) => {
 
   if (answer1 === '' || answer2 === '') {
     return helper.fail(`
-      Please answer both questions!
+    Veuillez répondre aux deux questions !
     `);
   }
 
   if (answer1 !== 'http') {
     return helper.fail(`
-      The first answer is incorrect - the acronym for this protocol is the first
-      four letters you type into the address bar when you enter the URL for a
-      website in your browser.
+    La première réponse est incorrecte - l'acronyme de ce protocole 
+    sont les quatre premières lettres que vous tapez dans la barre d'adresse
+    lorsque vous entrez l'URL d'un site Web dans votre navigateur.
     `);
   }
 
   if (answer2.indexOf('header') < 0) {
     return helper.fail(`
-      The second answer is incorrect - the name for these extra pieces of 
-      information that go along with web requests is perhaps the opposite of 
-      "footer".
+    La deuxième réponse est incorrecte - le nom de ces éléments d'information
+    supplémentaires qui accompagnent les requêtes Web est peut-être le contraire
+    en anglais de 'footer' ("pied de page"). 
     `);
   }
 
   return helper.success(`
-    You've got it! You've opened the chest of knowledge for House Lovelace.
+  Vous avez réussi ! Vous avez ouvert le coffre de la connaissance de la Maison Lovelace.
   `);
 };

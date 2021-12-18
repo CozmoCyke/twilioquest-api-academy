@@ -1,13 +1,13 @@
 /**
- * An API (Application Programming Interface) is a contract between two
- * software systems, where one system provides a set of functionality to
- * another. It's like a contract between your code and code that was written
- * somewhere else.
+ * Une API (Application Programming Interface) est un contrat entre deux
+ * systèmes logiciels, où un système fournit un ensemble de fonctionnalités à
+ * un autre. C'est comme un contrat entre votre code et un code qui a été écrit
+ * ailleurs.
  * 
- * Most built-in objects in a programming language have APIs, and JavaScript
- * is no different. In JS, strings have an API for converting themselves to
- * all caps. Here's an example below!
+ * La plupart des objets intégrés dans un langage de programmation ont des API, et JavaScript
+ * n'est pas différent. En JS, les chaînes de caractères ont une API pour se convertir
+ * en majuscules. Voici un exemple ci-dessous !
  */
 
-const allCapsString = 'yeet!'.toUpperCase();
+const allCapsString = 'Oui!'.toUpperCase();
 console.log(allCapsString);

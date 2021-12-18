@@ -19,8 +19,8 @@ module.exports = async function (event, world) {
 
   updateQuestLogWhenComplete({
     notification:
-      'I\'ve completed everything in the <span class="highlight">API Academy</span> for now!',
-    log: "I've completed everything in the API Academy for now!",
+      'J\'ai terminé tout ce qu\'il y avait à faire dans la <span class="highlight">l\'Académie des APIs</span> pour le moment !',
+    log: "J'ai terminé tout ce qu'il y a à faire dans l'Académie des API pour le moment !",
     event,
     world,
     worldStateKey: WORLD_STATE_KEY,

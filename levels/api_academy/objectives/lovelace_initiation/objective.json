@@ -1,19 +1,19 @@
 {
-  "title": "API Academy Admission: How the Web Works",
-  "description": "To unlock the chest of knowledge for <strong>House Lovelace</strong>, you must learn some basics about the worldwide web.",
+  "title": "Admission à l'Académie des API : Comment fonctionne le Web",
+  "description": "Pour déverrouiller le coffre de la Connaissance de la <strong>Maison Lovelace</strong>, vous devez apprendre quelques notions de base sur le web mondial",
   "show_ide": false,
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
       "placeholder": "",
-      "label": "What four letter acronym describes the most common protocol used by web clients (like your browser) and web servers to transfer data on the web, like HTML or images?"
+      "label" : "Quel acronyme formé de quatre lettres décrit le protocole le plus courant utilisé par les clients Web (comme votre navigateur) et les serveurs Web pour transférer des données sur le Web, comme du HTML ou des images ?"
     },
     {
-      "name": "answer2",
-      "type": "text",
-      "placeholder": "",
-      "label": "Sometimes a client computer needs to send additional information when it requests a web page or other resource from a server (like state that needs to persist across requests, such as \"cookies\"). What are these extra bits of information called?"
+      "name" : "answer2",
+      "type" : "text",
+      "placeholder" : "",
+      "label" : "Parfois, un ordinateur client doit envoyer des informations supplémentaires lorsqu'il demande une page Web ou une autre ressource à un serveur (comme un état qui doit persister entre les demandes, tel que les  \"cookies\"). Comment appelle-t-on ces bits d'information supplémentaires ?"
     }
   ],
   "rewards": {

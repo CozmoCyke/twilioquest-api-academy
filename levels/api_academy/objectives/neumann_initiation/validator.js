@@ -4,27 +4,26 @@ module.exports = async (helper) => {
 
   if (answer1 === "" || answer2 === "") {
     return helper.fail(`
-      Please answer both questions!
+    Veuillez répondre aux deux questions !
     `);
   }
 
-  if (answer1 !== "resource") {
+  if (answer1 !== "ressource") {
     return helper.fail(`
-      The first answer is incorrect - the name for an object that you can
-      access via HTTP in a RESTful API is the "R" in "URL".
+    La première réponse est incorrecte - le nom d'un objet, auquel vous pouvez
+    accéder via HTTP dans une API RESTful, commence par la lettre "R" de "URL".
     `);
   }
 
   if (answer2 !== "post") {
     return helper.fail(`
-      The second answer is incorrect - Craig talks about mapping "CRUD" 
-      operations (Create, Read, Update, and Delete) in his video - check the
-      video out one more time to see which HTTP method is associated with 
-      creation.
+    La deuxième réponse est incorrecte - Craig parle du mappage des opérations "CRUD" 
+    (Create, Read, Update, and Delete) dans sa vidéo - regardez encore une fois la vidéo
+    pour voir quelle méthode HTTP est associée à la création.
     `);
   }
 
   return helper.success(`
-    You've got it! You've opened the chest of knowledge for House Lovelace.
+  Vous avez réussi ! Vous avez ouvert le coffre de la connaissance de la Maison Lovelace.
   `);
 };

@@ -1,7 +1,7 @@
-# Remote APIs
+# API distantes
 
-The challenge before you is to unlock four **chests of knowledge**, one for each of the student houses at the API Academy. This chest is sponsored by **House Hopper**, named for computer science innovator [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper). To bypass the locking mechanism, you must answer a few questions related to remote APIs. Answer the questions on the right, and then click *HACK*.
+Le défi qui vous attend est de déverrouiller quatre **coffres de connaissances**, un pour chacune des maisons d'étudiants de l'Académie des API. Ce coffre est parrainé par la **maison Hopper**, qui porte le nom de l'innovatrice en informatique [Grace Hopper](https://fr.wikipedia.org/wiki/Grace_Hopper). Pour contourner le mécanisme de verrouillage, vous devez répondre à quelques questions relatives aux API distantes. Répondez aux questions sur la droite, puis cliquez sur *HACK*.
 
-## Learning about APIs
+### Apprendre sur les API
 
-The challenges in the API Academy are based on [this incredible API introduction course](https://www.youtube.com/watch?v=GZvSYJDk-us) by your Fog Owl crewmate **Craig Dennis**. Click the *Show Help* button below to see an embedded portion of the video relevant to these questions.
+Les défis de l'Académie des API sont basés sur [cet incroyable cours d'introduction aux API](https://www.youtube.com/watch?v=GZvSYJDk-us) par votre coéquipier du Fog Owl **Craig Dennis**. Cliquez sur le bouton d'aide *Show Help* ci-dessous pour voir une partie intégrée de la vidéo correspondant à ces questions.

@@ -1,7 +1,7 @@
-# How the Web Works
+# Comment fonctionne le Web
 
-The challenge before you is to unlock four **chests of knowledge**, one for each of the student houses at the API Academy. This chest is sponsored by **House Lovelace**, named for mathemetician [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace). To bypass the locking mechanism, you must answer a few questions related to how the web works. Answer the questions on the right, and then click *HACK*.
+Le défi qui vous attend est de débloquer quatre **coffres du savoir**, un pour chacune des maisons d'étudiants de l'Académie des API. Ce coffre est parrainé par la **Maison Lovelace**, nommée en l'honneur de la mathématicienne [Ada Lovelace] (https://fr.wikipedia.org/wiki/Ada_Lovelace). Pour contourner le mécanisme de verrouillage, vous devez répondre à quelques questions relatives au fonctionnement du Web. Répondez aux questions sur la droite, puis cliquez sur *HACK*.
 
-## Learning about APIs
+### Apprendre les API
 
-The challenges in the API Academy are based on [this incredible API introduction course](https://www.youtube.com/watch?v=GZvSYJDk-us) by your Fog Owl crewmate **Craig Dennis**. Click the *Show Help* button below to see an embedded portion of the video relevant to these questions.
+Les défis de l'Académie des API sont basés sur [cet incroyable cours d'introduction aux API] (https://www.youtube.com/watch?v=GZvSYJDk-us) par votre coéquipier du Fog Owl **Craig Dennis**. Cliquez sur le bouton d'aide *Show Help* ci-dessous pour voir une partie intégrée de la vidéo correspondant à ces questions.

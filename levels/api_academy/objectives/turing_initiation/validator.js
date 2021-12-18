@@ -3,25 +3,24 @@ module.exports = async (helper) => {
   const answer2 = helper.getNormalizedInput('answer2');
 
   if (!answer1 || !answer2) {
-    return helper.fail('Please provide an answer to both questions!');
+    return helper.fail('Veuillez répondre aux deux questions !');
   }
 
   if (answer1 !== 'interface') {
-    return helper.fail('The first answer is incorrect.');
+    return helper.fail('La première réponse est incorrecte.');
   }
 
   if (answer2.indexOf('touppercase') !== 0) {
     return helper.fail(`
-      The second answer is incorrect - In JavaScript, a function is invoked by 
-      using the "." operator after a
-      variable that references an object, and then is invoked with an open 
-      and closed parentheses "()". Objects provide an API through these kinds
-      of functions. What is the name of the API function used in the example,
-      which translates the string to all uppercase characters?
+    La deuxième réponse est incorrecte - En JavaScript, une fonction est invoquée en utilisant
+    l'opérateur "." après une variable qui fait référence à un objet, puis est invoquée avec 
+    une parenthèse ouverte et fermée "()". Les objets fournissent une API à travers ces types 
+    de fonctions. Quel est le nom de la fonction API utilisée dans l'exemple, qui traduit 
+    la chaîne en caractères majuscules ?
     `);
   }
 
   return helper.success(`
-    You've got it! You've opened the chest of knowledge for House Turing.
+  Vous avez réussi ! Vous avez ouvert le coffre de la connaissance de la Maison Turing.
   `);
 };

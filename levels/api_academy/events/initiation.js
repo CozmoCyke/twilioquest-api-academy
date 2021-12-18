@@ -60,16 +60,16 @@ function processInitiationEvents(event, world, worldState) {
     ) {
       // Default message if not all have been found
       let completedHousesNotification = `
-        I have completed the initiation ceremonies for the ${
-          completedHouses.length > 1 ? "houses" : "house"
-        } <i>${joinStringsWithOxfordComma(completedHouses)}</i>. ${
+      J'ai terminé les cérémonies d'initiation pour ${
+          completedHouses.length > 1 ? "les maisons" : "la maison"
+        } <i>${joinStringsWithOxfordComma(completedHouses)}</i>. Il en manque ${
         4 - completedHouses.length
-      } more to go!
+      } !
       `;
 
       if (completedHouses.length === 4) {
         // Victory message once all chests found
-        completedHousesNotification = `I completed all the houses' ceremonies! I should head back to the castle gates now!`;
+        completedHousesNotification = `J'ai terminé toutes les cérémonies des maisons ! Je devrais retourner aux portes du château maintenant !`;
       }
 
       world.showNotification(completedHousesNotification);

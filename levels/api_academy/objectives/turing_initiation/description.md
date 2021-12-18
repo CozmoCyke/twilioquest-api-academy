@@ -1,7 +1,7 @@
-# Defining an API
+# Définir une API
 
-The challenge before you is to unlock four **chests of knowledge**, one for each of the student houses at the API Academy. This chest is sponsored by **House Turing**, named for computer science pioneer [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing). To bypass the locking mechanism, you must answer a few questions related to the definition of APIs. Answer the questions on the right, and then click *HACK*.
+Le défi qui vous attend est de débloquer quatre **coffres de la connaissances**, un pour chacune des maisons d'étudiants de l'Académie des API. Ce coffre est parrainé par la **Maison Turing**, nommée en l'honneur du pionnier de l'informatique [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing). Pour contourner le mécanisme de verrouillage, vous devez répondre à quelques questions relatives à la définition des API. Répondez aux questions sur la droite, puis cliquez sur *HACK*.
 
-## Learning about APIs
+### Apprendre à connaître les API
 
-The challenges in the API Academy are based on [this incredible API introduction course](https://www.youtube.com/watch?v=GZvSYJDk-us) by your Fog Owl crewmate **Craig Dennis**. Click the *Show Help* button below to see an embedded portion of the video relevant to these questions.
+Les défis de l'Académie des API sont basés sur [cet incroyable cours d'introduction aux API](https://www.youtube.com/watch?v=GZvSYJDk-us) par votre coéquipier du Fog Owl **Craig Dennis**. Cliquez sur le bouton d'aide *Show Help* ci-dessous pour voir une partie incluse de la vidéo correspondant à ces questions.

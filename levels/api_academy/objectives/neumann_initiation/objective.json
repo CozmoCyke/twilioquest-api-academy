@@ -1,19 +1,19 @@
 {
-  "title": "API Academy Admission: RESTful APIs",
-  "description": "To unlock the chest of knowledge for <strong>House von Neumann</strong>, you must learn about RESTful APIs.",
+  "title" : "Admission à l'Académie des API : les API RESTful",
+  "description" : "Pour déverrouiller le coffre de la connaissance de la <strong>Maison von Neumann</strong>, vous devez apprendre les API RESTful.",
   "show_ide": false,
   "validation_fields": [
     {
       "name": "answer1",
       "type": "text",
       "placeholder": "",
-      "label": "What is the abstract name for a chunk of data that can be addressed by a URI and potentially transferred using a RESTful API?"
+      "label": "Quel est le nom abstrait d'un bloc de données qui peut être adressé par un URI et potentiellement transféré à l'aide d'une API RESTful ?"
     },
     {
       "name": "answer2",
       "type": "text",
       "placeholder": "",
-      "label": "Which HTTP method/verb is most commonly used to create new data on a server in a RESTful API?"
+      "label": "Quelle méthode/verbe HTTP est le plus souvent utilisée pour créer de nouvelles données sur un serveur dans une API RESTful ?"
     }
   ],
   "rewards": {

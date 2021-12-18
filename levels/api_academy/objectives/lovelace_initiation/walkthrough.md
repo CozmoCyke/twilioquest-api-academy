@@ -1,6 +1,6 @@
-# Video: How the Web Works
+# Vidéo : Comment fonctionne le Web
 
-Watch the embedded video below to learn some basics about how the web works. Also, feel free to [check out the whole course here](https://www.youtube.com/watch?v=GZvSYJDk-us)!
+Regardez la vidéo incluse ci-dessous pour apprendre quelques notions de base sur le fonctionnement du Web. N'hésitez pas non plus à [consultez le cours complet ici] (https://www.youtube.com/watch?v=GZvSYJDk-us) !
 
 <iframe 
   width="560" height="315" 

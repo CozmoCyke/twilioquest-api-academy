@@ -1,6 +1,6 @@
-# Video: Remote APIs
+# Vidéo : Les API distantes
 
-Watch the embedded video below to learn more about remote APIs. Also, feel free to [check out the whole course here](https://www.youtube.com/watch?v=GZvSYJDk-us)!
+Regardez la vidéo intégrée ci-dessous pour en savoir plus sur les API distantes. N'hésitez pas non plus à [consulter le cours complet ici](https://www.youtube.com/watch?v=GZvSYJDk-us) !
 
 <iframe 
   width="560" height="315" 

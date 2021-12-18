@@ -1,6 +1,6 @@
 {
   "name": "twilioquest-api-academy",
-  "description": "This is the API Academy extension for TwilioQuest.",
+  "description": "Il s'agit de l'extension l'Académie des API pour TwilioQuest.",
   "version": "1.0.5",
   "engines": {
     "twilioquest": "3.1.44"

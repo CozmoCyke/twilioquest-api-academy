@@ -4,27 +4,26 @@ module.exports = async (helper) => {
 
   if (answer1 === '' || answer2 === '') {
     return helper.fail(`
-      Please answer both questions!
+    Veuillez répondre aux deux questions !
     `);
   }
 
   if (answer1 !== 'false') {
     return helper.fail(`
-      The first answer is incorrect - remote APIs make use of computational
-      resources and code that may reside on other computers (servers) on a
-      network.
+    La première réponse est incorrecte - les API distantes ont créé des ressources informatiques
+    et du code qui peuvent résider sur d'autres ordinateurs (serveurs) sur un site Web.
     `);
   }
 
   if (!answer2 || answer2 !== 'rest') {
     return helper.fail(`
-      The second answer is incorrect - the expanded version of the acronym we 
-      are looking for is "Respresentational State Transfer". Check Craig's 
-      video one more time for the four-letter acronym.
+    La deuxième réponse est incorrecte - la version étendue de l'acronyme que nous 
+    recherchons est "Representational State Transfer". Vérifiez la vidéo de Craig 
+    encore une fois pour cet acronyme de quatre lettres.
     `);
   }
 
   return helper.success(`
-    You've got it! You've opened the chest of knowledge for House Hopper.
+  Vous avez réussi ! Vous avez ouvert le coffre de la connaissance pour la Maison Hopper.
   `);
 };
