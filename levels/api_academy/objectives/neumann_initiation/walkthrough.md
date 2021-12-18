@@ -1,6 +1,6 @@
-# Video: RESTful APIs
+# Vidéo : les API RESTful
 
-Watch the embedded video below to learn more about RESTful APIs. Also, feel free to [check out the whole course here](https://www.youtube.com/watch?v=GZvSYJDk-us)!
+Regardez la vidéo incluse ci-dessous pour en savoir plus sur les API RESTful. N'hésitez pas non plus à [consulter le cours complet ici](https://www.youtube.com/watch?v=GZvSYJDk-us) !
 
 <iframe 
   width="560" height="315" 
